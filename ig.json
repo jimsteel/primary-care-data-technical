@@ -140,7 +140,7 @@
         "qa": "qa",
         "specification": "http://hl7.org/fhir/STU3"
     },
-    "npm-name": "hl7.fhir.au.primarycare",
+    "npm-name": "au.csiro.fhir.au-primarycare-stu3",
     "resources": {
         "StructureDefinition/au-primarycareallergyintolerance": {
             "base": "StructureDefinition-au-primarycareallergyintolerance.html",
